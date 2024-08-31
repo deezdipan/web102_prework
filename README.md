@@ -35,6 +35,7 @@ GIF created with KAP
 ## Notes
 
 Describe any challenges encountered while building the app.
+It was a little difficult to write code for the functions.
 
 ## License
 
